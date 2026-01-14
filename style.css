@@ -27,7 +27,7 @@ p {
 }
 
 .card {
-  background-color: aliceblue;
+  background-color: rgb(255, 255, 255);
   padding: 20px;
   max-width: 338px;
   width: 100%;
